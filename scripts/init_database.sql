@@ -1,6 +1,6 @@
 /*
 _______________________________________________
-Create Database and Schemas 
+Create Database and Schemas
 _______________________________________________
 
 Script Purpose:
